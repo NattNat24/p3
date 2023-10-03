@@ -1,2 +1,2 @@
-# p3
+# Practica 3 
 repositorio para la práctica #3
